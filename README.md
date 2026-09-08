@@ -109,7 +109,19 @@ Possible next steps:
 - Apply a machine learning model to predict spending
 - Add more customer features
 - Compare different preprocessing techniques
+## 📊 Visualizations
 
+### Income vs Annual Spending
+
+This chart shows the relationship between customers' annual income and their annual spending.
+
+![Income vs Annual Spending](income_vs_spending.png)
+
+### Average Spending by City
+
+This chart compares the average annual spending across different cities.
+
+![Average Spending by City](spending_by_city.png)
 ## 👩‍💻 Author
 
 **Hamsa Adel**
